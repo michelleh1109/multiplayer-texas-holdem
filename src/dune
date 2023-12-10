@@ -1,0 +1,5 @@
+(library
+ (name poker)
+ (public_name Poker)
+ (instrumentation
+  (backend bisect_ppx)))

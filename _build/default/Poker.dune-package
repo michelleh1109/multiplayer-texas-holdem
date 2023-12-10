@@ -1,0 +1,111 @@
+(lang dune 3.6)
+(name Poker)
+(sections (lib .) (libexec .) (doc ../../doc/Poker))
+(files
+ (lib
+  (META
+   card.ml
+   card.mli
+   command.ml
+   command.mli
+   compare.ml
+   compare.mli
+   computer.ml
+   computer.mli
+   deck.ml
+   deck.mli
+   dune-package
+   hand.ml
+   hand.mli
+   hole.ml
+   hole.mli
+   opam
+   player.ml
+   player.mli
+   poker.a
+   poker.cma
+   poker.cmi
+   poker.cmt
+   poker.cmx
+   poker.cmxa
+   poker.ml
+   poker__Card.cmi
+   poker__Card.cmt
+   poker__Card.cmti
+   poker__Card.cmx
+   poker__Command.cmi
+   poker__Command.cmt
+   poker__Command.cmti
+   poker__Command.cmx
+   poker__Compare.cmi
+   poker__Compare.cmt
+   poker__Compare.cmti
+   poker__Compare.cmx
+   poker__Computer.cmi
+   poker__Computer.cmt
+   poker__Computer.cmti
+   poker__Computer.cmx
+   poker__Deck.cmi
+   poker__Deck.cmt
+   poker__Deck.cmti
+   poker__Deck.cmx
+   poker__Hand.cmi
+   poker__Hand.cmt
+   poker__Hand.cmti
+   poker__Hand.cmx
+   poker__Hole.cmi
+   poker__Hole.cmt
+   poker__Hole.cmti
+   poker__Hole.cmx
+   poker__Player.cmi
+   poker__Player.cmt
+   poker__Player.cmti
+   poker__Player.cmx
+   poker__Print.cmi
+   poker__Print.cmt
+   poker__Print.cmti
+   poker__Print.cmx
+   print.ml
+   print.mli))
+ (libexec (poker.cmxs))
+ (doc (README.md)))
+(library
+ (name Poker)
+ (kind normal)
+ (archives (byte poker.cma) (native poker.cmxa))
+ (plugins (byte poker.cma) (native poker.cmxs))
+ (native_archives poker.a)
+ (main_module_name Poker)
+ (modes byte native)
+ (modules
+  (wrapped
+   (main_module_name Poker)
+   (modules
+    ((name Card) (obj_name poker__Card) (visibility public) (impl) (intf))
+    ((name Command)
+     (obj_name poker__Command)
+     (visibility public)
+     (impl)
+     (intf))
+    ((name Compare)
+     (obj_name poker__Compare)
+     (visibility public)
+     (impl)
+     (intf))
+    ((name Computer)
+     (obj_name poker__Computer)
+     (visibility public)
+     (impl)
+     (intf))
+    ((name Deck) (obj_name poker__Deck) (visibility public) (impl) (intf))
+    ((name Hand) (obj_name poker__Hand) (visibility public) (impl) (intf))
+    ((name Hole) (obj_name poker__Hole) (visibility public) (impl) (intf))
+    ((name Player) (obj_name poker__Player) (visibility public) (impl) (intf))
+    ((name Print) (obj_name poker__Print) (visibility public) (impl) (intf)))
+   (alias_module
+    (name Poker)
+    (obj_name poker)
+    (visibility public)
+    (kind alias)
+    (impl))
+   (wrapped true))))

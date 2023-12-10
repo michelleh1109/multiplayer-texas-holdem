@@ -1,0 +1,247 @@
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Start test test suite for final project:1:Spades suit.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Test test suite for final project:1:Spades suit is successful.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: End test test suite for final project:1:Spades suit.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Start test test suite for final project:3:Diamonds suit.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Test test suite for final project:3:Diamonds suit is successful.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: End test test suite for final project:3:Diamonds suit.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Start test test suite for final project:5:7 number.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Test test suite for final project:5:7 number is successful.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: End test test suite for final project:5:7 number.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Start test test suite for final project:6:Jack number.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Test test suite for final project:6:Jack number is successful.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: End test test suite for final project:6:Jack number.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Start test test suite for final project:9:Queen of Hearts.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Test test suite for final project:9:Queen of Hearts is successful.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: End test test suite for final project:9:Queen of Hearts.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Start test test suite for final project:11:Seven of Clubs.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Test test suite for final project:11:Seven of Clubs is successful.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: End test test suite for final project:11:Seven of Clubs.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Start test test suite for final project:12:Ten of Diamonds.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Test test suite for final project:12:Ten of Diamonds is successful.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: End test test suite for final project:12:Ten of Diamonds.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Start test test suite for final project:15:different number card is false.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Test test suite for final project:15:different number card is false is successful.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: End test test suite for final project:15:different number card is false.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Start test test suite for final project:16:different suit card is false.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Test test suite for final project:16:different suit card is false is successful.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: End test test suite for final project:16:different suit card is false.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Start test test suite for final project:18:card list of length 3 that is not equal.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Test test suite for final project:18:card list of length 3 that is not equal is successful.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: End test test suite for final project:18:card list of length 3 that is not equal.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Start test test suite for final project:20:card list of length 3 and length 4 is not equal.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Test test suite for final project:20:card list of length 3 and length 4 is not equal is successful.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: End test test suite for final project:20:card list of length 3 and length 4 is not equal.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Start test test suite for final project:22:make_card raises IllegalSuit.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Test test suite for final project:22:make_card raises IllegalSuit is successful.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: End test test suite for final project:22:make_card raises IllegalSuit.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Start test test suite for final project:25:make_card raises IllegalNum.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Test test suite for final project:25:make_card raises IllegalNum is successful.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: End test test suite for final project:25:make_card raises IllegalNum.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Start test test suite for final project:27:full deck.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Test test suite for final project:27:full deck is successful.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: End test test suite for final project:27:full deck.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Start test test suite for final project:29:get_cards size.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Test test suite for final project:29:get_cards size is successful.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: End test test suite for final project:29:get_cards size.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Start test test suite for final project:30:random hole.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Test test suite for final project:30:random hole is successful.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: End test test suite for final project:30:random hole.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Start test test suite for final project:33:5 cards.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Test test suite for final project:33:5 cards is successful.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: End test test suite for final project:33:5 cards.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Start test test suite for final project:34:empty hand.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Test test suite for final project:34:empty hand is successful.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: End test test suite for final project:34:empty hand.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Start test test suite for final project:36:pair present.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Test test suite for final project:36:pair present is successful.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: End test test suite for final project:36:pair present.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Start test test suite for final project:39:two pair present.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Test test suite for final project:39:two pair present is successful.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: End test test suite for final project:39:two pair present.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Start test test suite for final project:41:no three of a kind.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Test test suite for final project:41:no three of a kind is successful.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: End test test suite for final project:41:no three of a kind.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Start test test suite for final project:43:two three of a kind present.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Test test suite for final project:43:two three of a kind present is successful.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: End test test suite for final project:43:two three of a kind present.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Start test test suite for final project:45:no straight present.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Test test suite for final project:45:no straight present is successful.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: End test test suite for final project:45:no straight present.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Start test test suite for final project:47:[ 2; 3; 4; 5 ; 6] straight present.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Test test suite for final project:47:[ 2; 3; 4; 5 ; 6] straight present is successful.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: End test test suite for final project:47:[ 2; 3; 4; 5 ; 6] straight present.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Start test test suite for final project:49:[ 4; 5 ; 6; 7; 8] straight present.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Test test suite for final project:49:[ 4; 5 ; 6; 7; 8] straight present is successful.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: End test test suite for final project:49:[ 4; 5 ; 6; 7; 8] straight present.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Start test test suite for final project:51:[ 6; 7; 8; 9; 10] straight present.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Test test suite for final project:51:[ 6; 7; 8; 9; 10] straight present is successful.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: End test test suite for final project:51:[ 6; 7; 8; 9; 10] straight present.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Start test test suite for final project:53:[ 8; 9; 10; 11; 12] straight present.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Test test suite for final project:53:[ 8; 9; 10; 11; 12] straight present is successful.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: End test test suite for final project:53:[ 8; 9; 10; 11; 12] straight present.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Start test test suite for final project:55:[ 10; 11; 12; 13; 1] straight present.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Test test suite for final project:55:[ 10; 11; 12; 13; 1] straight present is successful.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: End test test suite for final project:55:[ 10; 11; 12; 13; 1] straight present.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Start test test suite for final project:57:flush of spades present.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Test test suite for final project:57:flush of spades present is successful.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: End test test suite for final project:57:flush of spades present.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Start test test suite for final project:58:flush of clubs present.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Test test suite for final project:58:flush of clubs present is successful.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: End test test suite for final project:58:flush of clubs present.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Start test test suite for final project:61:no full house present.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Test test suite for final project:61:no full house present is successful.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: End test test suite for final project:61:no full house present.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Start test test suite for final project:62:full house present.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Test test suite for final project:62:full house present is successful.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: End test test suite for final project:62:full house present.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Start test test suite for final project:65:four of a kind present.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Test test suite for final project:65:four of a kind present is successful.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: End test test suite for final project:65:four of a kind present.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Start test test suite for final project:67:straight flush present.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Test test suite for final project:67:straight flush present is successful.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: End test test suite for final project:67:straight flush present.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Start test test suite for final project:69:no royal flush present.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Test test suite for final project:69:no royal flush present is successful.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: End test test suite for final project:69:no royal flush present.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Start test test suite for final project:71:flush and highest straight present, but not for same cards so it isn't a royal flush.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Test test suite for final project:71:flush and highest straight present, but not for same cards so it isn't a royal flush is successful.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: End test test suite for final project:71:flush and highest straight present, but not for same cards so it isn't a royal flush.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Start test test suite for final project:73:check with commands afterwards returns Check.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Test test suite for final project:73:check with commands afterwards returns Check is successful.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: End test test suite for final project:73:check with commands afterwards returns Check.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Start test test suite for final project:75:raise 5 returns Raise 5.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Test test suite for final project:75:raise 5 returns Raise 5 is successful.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: End test test suite for final project:75:raise 5 returns Raise 5.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Start test test suite for final project:77:all in returns AllIn.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Test test suite for final project:77:all in returns AllIn is successful.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: End test test suite for final project:77:all in returns AllIn.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Start test test suite for final project:78:help returns Help.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Test test suite for final project:78:help returns Help is successful.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: End test test suite for final project:78:help returns Help.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Start test test suite for final project:81:hand returns Hand.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Test test suite for final project:81:hand returns Hand is successful.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: End test test suite for final project:81:hand returns Hand.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Start test test suite for final project:82:hole returns Hole.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Test test suite for final project:82:hole returns Hole is successful.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: End test test suite for final project:82:hole returns Hole.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Start test test suite for final project:85:raise with non-integer input raises Malformed.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Test test suite for final project:85:raise with non-integer input raises Malformed is successful.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: End test test suite for final project:85:raise with non-integer input raises Malformed.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Start test test suite for final project:87:input easy returns Easy.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Test test suite for final project:87:input easy returns Easy is successful.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: End test test suite for final project:87:input easy returns Easy.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Start test test suite for final project:89:input medium with spaces in the front and back returns Medium.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Test test suite for final project:89:input medium with spaces in the front and back returns Medium is successful.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: End test test suite for final project:89:input medium with spaces in the front and back returns Medium.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Start test test suite for final project:90:input play returns Start.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Test test suite for final project:90:input play returns Start is successful.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: End test test suite for final project:90:input play returns Start.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Start test test suite for final project:93:empty string raises empty.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Test test suite for final project:93:empty string raises empty is successful.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: End test test suite for final project:93:empty string raises empty.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Start test test suite for final project:94:an invalid difficulty raises Malformed.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Test test suite for final project:94:an invalid difficulty raises Malformed is successful.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: End test test suite for final project:94:an invalid difficulty raises Malformed.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Start test test suite for final project:96:start raises Malformed.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Test test suite for final project:96:start raises Malformed is successful.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: End test test suite for final project:96:start raises Malformed.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Start test test suite for final project:98:p1 plays check without owing anything.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Test test suite for final project:98:p1 plays check without owing anything is successful.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: End test test suite for final project:98:p1 plays check without owing anything.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Start test test suite for final project:100:p1 plays raise 10 without owing anything .
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Test test suite for final project:100:p1 plays raise 10 without owing anything  is successful.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: End test test suite for final project:100:p1 plays raise 10 without owing anything .
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Start test test suite for final project:102:p1 raises 250 when they have 240.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Test test suite for final project:102:p1 raises 250 when they have 240 is successful.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: End test test suite for final project:102:p1 raises 250 when they have 240.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Start test test suite for final project:105:p2 goes all in while owing more than their balance .
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Test test suite for final project:105:p2 goes all in while owing more than their balance  is successful.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: End test test suite for final project:105:p2 goes all in while owing more than their balance .
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Start test test suite for final project:107:p1 Calls while owing 50 .
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Test test suite for final project:107:p1 Calls while owing 50  is successful.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: End test test suite for final project:107:p1 Calls while owing 50 .
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Start test test suite for final project:108:testing high card.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Test test suite for final project:108:testing high card is successful.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: End test test suite for final project:108:testing high card.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Start test test suite for final project:111:testing high card.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Test test suite for final project:111:testing high card is successful.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: End test test suite for final project:111:testing high card.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Start test test suite for final project:113:testing pair.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Test test suite for final project:113:testing pair is successful.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: End test test suite for final project:113:testing pair.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Start test test suite for final project:114:testing pair.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Test test suite for final project:114:testing pair is successful.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: End test test suite for final project:114:testing pair.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Start test test suite for final project:116:testing pair.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Test test suite for final project:116:testing pair is successful.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: End test test suite for final project:116:testing pair.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Start test test suite for final project:117:testing pair.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Test test suite for final project:117:testing pair is successful.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: End test test suite for final project:117:testing pair.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Start test test suite for final project:119:testing three of a kind.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Test test suite for final project:119:testing three of a kind is successful.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: End test test suite for final project:119:testing three of a kind.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Start test test suite for final project:122:testing two pairs.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Test test suite for final project:122:testing two pairs is successful.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: End test test suite for final project:122:testing two pairs.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Start test test suite for final project:124:testing two pairs.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Test test suite for final project:124:testing two pairs is successful.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: End test test suite for final project:124:testing two pairs.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Start test test suite for final project:126:testing straight.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Test test suite for final project:126:testing straight is successful.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: End test test suite for final project:126:testing straight.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Start test test suite for final project:128:testing straight.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Test test suite for final project:128:testing straight is successful.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: End test test suite for final project:128:testing straight.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Start test test suite for final project:130:testing flush.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Test test suite for final project:130:testing flush is successful.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: End test test suite for final project:130:testing flush.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Start test test suite for final project:132:testing flush.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Test test suite for final project:132:testing flush is successful.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: End test test suite for final project:132:testing flush.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Start test test suite for final project:134:testing full house.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Test test suite for final project:134:testing full house is successful.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: End test test suite for final project:134:testing full house.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Start test test suite for final project:135:testing full house.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Test test suite for final project:135:testing full house is successful.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: End test test suite for final project:135:testing full house.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Start test test suite for final project:138:testing four of a kind.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Test test suite for final project:138:testing four of a kind is successful.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: End test test suite for final project:138:testing four of a kind.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Start test test suite for final project:139:testing four of a kind.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Test test suite for final project:139:testing four of a kind is successful.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: End test test suite for final project:139:testing four of a kind.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Start test test suite for final project:141:testing straight flush.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Test test suite for final project:141:testing straight flush is successful.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: End test test suite for final project:141:testing straight flush.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Start test test suite for final project:143:testing straight flush.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Test test suite for final project:143:testing straight flush is successful.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: End test test suite for final project:143:testing straight flush.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Start test test suite for final project:145:testing royal flush.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Test test suite for final project:145:testing royal flush is successful.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: End test test suite for final project:145:testing royal flush.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Start test test suite for final project:147:testing royal flush.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Test test suite for final project:147:testing royal flush is successful.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: End test test suite for final project:147:testing royal flush.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Start test test suite for final project:149:full house same three.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Test test suite for final project:149:full house same three is successful.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: End test test suite for final project:149:full house same three.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Start test test suite for final project:150:full house diff three.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Test test suite for final project:150:full house diff three is successful.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: End test test suite for final project:150:full house diff three.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Start test test suite for final project:151:flush.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Test test suite for final project:151:flush is successful.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: End test test suite for final project:151:flush.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Start test test suite for final project:152:straight.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Test test suite for final project:152:straight is successful.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: End test test suite for final project:152:straight.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Start test test suite for final project:153:three of a kind same three.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 E: Test test suite for final project:153:three of a kind same three has failed.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 E: not equal in test test suite for final project:153:three of a kind same three.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 E: Raised at OUnitAssert.assert_failure in file "src/lib/ounit2/advanced/oUnitAssert.ml", line 45, characters 2-27
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 E: Called from OUnitRunner.run_one_test.(fun) in file "src/lib/ounit2/advanced/oUnitRunner.ml", line 83, characters 13-26
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 E: 
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: End test test suite for final project:153:three of a kind same three.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Start test test suite for final project:154:three of a kind diff three.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: Test test suite for final project:154:three of a kind diff three is successful.
+2023-05-14T00:08:08+00:00 dhcp-vl2042-20603.redrover.cornell.edu#02 I: End test test suite for final project:154:three of a kind diff three.
