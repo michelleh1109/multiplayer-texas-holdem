@@ -1,0 +1,13 @@
+First, update Opam:
+$ opam update
+
+If it prompst you to upgrade Opam:
+$ opam upgrade
+
+install ANSITerminal:
+$ opam install ANSITerminal
+
+After this, everything should be all set
+
+To run the demo:
+$ make play
